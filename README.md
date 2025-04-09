@@ -74,7 +74,7 @@ _(Se flere i `sql/analysis_queries.sql`)_
 
 ## Formål
 
-Projektet er udviklet som portefølje til jobsøgning inden for dataanalyse, BI og AI-relaterede konsulentstillinger.
+Projektet er udviklet som portefølje til jobsøgning og erfaring inden for dataanalyse, BI og AI.
 
 ---
 
